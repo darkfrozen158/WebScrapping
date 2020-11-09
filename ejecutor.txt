@@ -1,0 +1,2 @@
+scrapy runspider ScrappyExtraccionElComercio.py -o videoComercio2.json -t json -> json
+scrapy runspider ScrappyExtraccionElComercio.py -o videoComercio2.csv -t csv -> csv
